@@ -1,0 +1,23 @@
+.Navbar{
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+}
+
+.navlogo{
+    font-weight: 700;
+    font-size: 21px;
+    margin: 15px;
+    color: black;
+}
+
+.navItems a{
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 15px;
+    position: relative;
+    opacity: 0.9;
+}
